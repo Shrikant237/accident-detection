@@ -1,0 +1,7 @@
+# Copy this file to .env and replace the placeholders with NEW credentials.
+# The previously exposed Gmail app password should be revoked; do not reuse it.
+
+SENDER_EMAIL=your-sender-email@gmail.com
+RECEIVER_EMAIL=your-recipient-email@gmail.com
+EMAIL_PASSWORD=your-new-gmail-app-password
+WEATHER_API_KEY=your-weather-api-key
